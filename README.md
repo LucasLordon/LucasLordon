@@ -1,4 +1,15 @@
-### Hi there 👋 😁
+# Hi there 👋😁
+
+Welcome to my GitHub! Here are some of my projects:
+
+## Project 1
+![JS Logo](path/to/image)  
+**Technology:** JavaScript
+
+## Project 2
+![C# Logo](path/to/image2)  
+**Technology:** C#
+
 
 <!--
 **LucasLordon/LucasLordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
